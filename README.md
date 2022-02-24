@@ -1,5 +1,4 @@
 ## Face-Mask-Detection-based-Door-Gate-Opening-System.
-🔴 Project -  Face Mask Detection based Door/Gate Opening System  
 
 In this session, we are going to see a new project. Face mask detection based door or Gate Entry System. This system will open the Gate only when, person wears the mask properly. If there is No Mask, then No Entry. We will use Raspberry Pi 4 development board, Python programming, Deep Learning Techniques, We will also use different computer vision libraries like, Tensor flow, Keras etc.  
 
