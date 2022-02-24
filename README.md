@@ -10,7 +10,7 @@ Raspberry Pi, OpenCV Project - No Mask, No Entry   ▶️  [https://youtu.be/_Lp
 
 Tutorial - Raspberry Pi Interfacing with EM18 RFID Reader   ▶️  [https://youtu.be/eBzN0RCrgbI]  
   
-  
+</br> 
 ⚠️ Please Note that, you need to complete all the pre-requisites to implement this project.  
   
   
