@@ -13,8 +13,6 @@ Tutorial - Raspberry Pi Interfacing with EM18 RFID Reader   ▶️  [https://you
 </br> 
 ⚠️ Please Note that, you need to complete all the pre-requisites to implement this project.  
   
-  
-🚩 To download and Install WiringPi library on Raspberry Pi - Go to Following Link  
 
 ------------------------------------------------------------------------------------------  
 
