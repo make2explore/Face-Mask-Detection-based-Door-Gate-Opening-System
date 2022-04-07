@@ -9,9 +9,7 @@
 <br>  
 
 **Face Mask Detection main code Citations** -  
-  
-== > Referred Codes from [Q-engineering](https://qengineering.eu)    
-  
+
 Source code -->   
 
 📎 Created by [Q-engineering](https://qengineering.eu)  
